@@ -1,0 +1,8 @@
+{
+    "name": "cloudconfig-service",
+    "version": "1.0.15",
+    "private": false,
+    "environment": "production",
+    "build_id": 494,
+    "allow_public_access": true
+}
